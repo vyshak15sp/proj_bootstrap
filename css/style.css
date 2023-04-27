@@ -78,8 +78,8 @@
     text-transform: uppercase;
 }
 .food-img{
-    width: 100px;
-    height: 300px;
+    width: 100%;
+    height: auto;
     margin-top: 200px;
     margin-bottom: 20px;
     padding: 10px 0;
